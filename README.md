@@ -11,7 +11,6 @@ Projeto simples de formulário de login/registro com frontend estático e backen
 ![Status](https://img.shields.io/badge/Status-Finalizado-success?style=for-the-badge)
 ![Licença](https://img.shields.io/badge/Licença-MIT-white?style=for-the-badge)
 
-Acesso pelo **Pages**: https://borinigabriel8.github.io/login-register-system/
 
 ## Descrição
 
