@@ -4,7 +4,7 @@ Projeto simples de formulário de login/registro com frontend estático e backen
 
 ## 📸 Demonstração
 
-![View](https://github.com/borinigabriel8/login-register-system/blob//Screenshot_1.png)
+![View](https://github.com/borinigabriel8/login-register-system/blob/main/Screenshot_1.png)
 ---
 
 ![Versão](https://img.shields.io/badge/versão-1.0.0-E50914?style=for-the-badge)
